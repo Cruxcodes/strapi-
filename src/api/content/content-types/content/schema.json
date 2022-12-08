@@ -1,0 +1,37 @@
+{
+  "kind": "collectionType",
+  "collectionName": "contents",
+  "info": {
+    "singularName": "content",
+    "pluralName": "contents",
+    "displayName": "Content",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "section": {
+      "type": "string"
+    },
+    "topic": {
+      "type": "string"
+    },
+    "info": {
+      "type": "text"
+    },
+    "writer": {
+      "type": "string"
+    },
+    "img_url": {
+      "type": "string"
+    },
+    "writer_img": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string"
+    }
+  }
+}

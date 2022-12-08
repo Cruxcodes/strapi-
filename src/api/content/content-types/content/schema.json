@@ -18,16 +18,16 @@
     "topic": {
       "type": "string"
     },
-    "info": {
+    "content": {
       "type": "text"
     },
     "writer": {
       "type": "string"
     },
-    "img_url": {
+    "img": {
       "type": "string"
     },
-    "writer_img": {
+    "writerImg": {
       "type": "string"
     },
     "date": {
